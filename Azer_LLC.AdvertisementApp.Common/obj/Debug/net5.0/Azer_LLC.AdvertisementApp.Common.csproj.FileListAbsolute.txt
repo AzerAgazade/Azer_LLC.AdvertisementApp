@@ -1,0 +1,11 @@
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\bin\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.deps.json
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\bin\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\bin\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\refint\Azer_LLC.AdvertisementApp.Common.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\Azer_LLC.AdvertisementApp.Common.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Common\obj\Debug\net5.0\ref\Azer_LLC.AdvertisementApp.Common.dll

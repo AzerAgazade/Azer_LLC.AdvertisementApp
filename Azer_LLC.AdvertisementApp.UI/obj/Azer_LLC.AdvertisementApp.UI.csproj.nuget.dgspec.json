@@ -1,0 +1,409 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.UI\\Azer_LLC.AdvertisementApp.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\Azer_LLC.AdvertisementApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\Azer_LLC.AdvertisementApp.DataAccess.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.DataAccess",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\Azer_LLC.AdvertisementApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\Azer_LLC.AdvertisementApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\Azer_LLC.AdvertisementApp.Entities.csproj"
+              },
+              "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\Azer_LLC.AdvertisementApp.Common.csproj": {
+                "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\Azer_LLC.AdvertisementApp.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\Azer_LLC.AdvertisementApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\Azer_LLC.AdvertisementApp.Entities.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.Entities",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\Azer_LLC.AdvertisementApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\Azer_LLC.AdvertisementApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\Azer_LLC.AdvertisementApp.Business.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.Business",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\Azer_LLC.AdvertisementApp.Business.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\Azer_LLC.AdvertisementApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\AzerLLC.AdvertisementApp.DataAccess\\Azer_LLC.AdvertisementApp.DataAccess.csproj"
+              },
+              "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\Azer_LLC.AdvertisementApp.Dtos.csproj": {
+                "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\Azer_LLC.AdvertisementApp.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\Azer_LLC.AdvertisementApp.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\Azer_LLC.AdvertisementApp.Common.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.Common",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\Azer_LLC.AdvertisementApp.Common.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\Azer_LLC.AdvertisementApp.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\Azer_LLC.AdvertisementApp.Dtos.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.Dtos",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\Azer_LLC.AdvertisementApp.Dtos.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.UI\\Azer_LLC.AdvertisementApp.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.UI\\Azer_LLC.AdvertisementApp.UI.csproj",
+        "projectName": "Azer_LLC.AdvertisementApp.UI",
+        "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.UI\\Azer_LLC.AdvertisementApp.UI.csproj",
+        "packagesPath": "C:\\Users\\azera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\azera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\Azer_LLC.AdvertisementApp.Business.csproj": {
+                "projectPath": "C:\\Users\\azera\\source\\repos\\Azer_LLC.AdvertisementApp\\Azer_LLC.AdvertisementApp.Business\\Azer_LLC.AdvertisementApp.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "PdfSharp": {
+              "target": "Package",
+              "version": "[1.50.5147, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

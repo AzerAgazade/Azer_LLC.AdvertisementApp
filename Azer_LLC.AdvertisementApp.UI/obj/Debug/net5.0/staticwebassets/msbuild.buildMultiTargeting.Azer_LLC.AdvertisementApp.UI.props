@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azer_LLC.AdvertisementApp.UI.props" />
+</Project>
