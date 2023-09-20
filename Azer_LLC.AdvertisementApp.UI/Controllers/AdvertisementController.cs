@@ -22,6 +22,7 @@ using PdfSharp.Pdf;
 using PdfDocument = PdfSharp.Pdf.PdfDocument;
 using PdfReader = PdfSharp.Pdf.IO.PdfReader;
 using PdfPage = PdfSharp.Pdf.PdfPage;
+using FluentValidation;
 
 namespace Azer_LLC.AdvertisementApp.UI.Controllers
 {
@@ -77,15 +78,25 @@ namespace Azer_LLC.AdvertisementApp.UI.Controllers
         public async Task<IActionResult> Send(AdvertisementAppUserCreateModel model)
         {
             AdvertisementAppUserCreateDto dto = new();
+
             if (model.CvFile != null)
             {
                 var fileName = Guid.NewGuid().ToString();
                 var extName = Path.GetExtension(model.CvFile.FileName);
-                string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cvFiles", fileName + extName);
-                using (var stream = new FileStream(path, FileMode.Create))
+                if (extName.Contains("pdf"))
                 {
-                    await model.CvFile.CopyToAsync(stream);
+                    string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cvFiles", fileName + extName);
                     dto.CvPath = path;
+                    using (var stream = new FileStream(path, FileMode.Create))
+                    {
+                        await model.CvFile.CopyToAsync(stream);
+                    }
+                }
+                else
+                {
+
+                    ModelState.AddModelError(extName, "CV must be in pdf format only");
+
                 }
             }
 

@@ -1,0 +1,11 @@
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.deps.json
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.AssemblyInfoInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.AssemblyInfo.cs
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\refint\Azer_LLC.AdvertisementApp.Entities.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Entities.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\AzerLLC.AdvertisementApp.Entities\obj\Release\net5.0\ref\Azer_LLC.AdvertisementApp.Entities.dll

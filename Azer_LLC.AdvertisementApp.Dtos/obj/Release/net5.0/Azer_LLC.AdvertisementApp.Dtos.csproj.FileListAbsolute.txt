@@ -1,0 +1,11 @@
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.deps.json
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\bin\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.AssemblyInfo.cs
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\refint\Azer_LLC.AdvertisementApp.Dtos.dll
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\Azer_LLC.AdvertisementApp.Dtos.pdb
+C:\Users\azera\source\repos\Azer_LLC.AdvertisementApp\Azer_LLC.AdvertisementApp.Dtos\obj\Release\net5.0\ref\Azer_LLC.AdvertisementApp.Dtos.dll

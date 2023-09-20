@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARQWG81GxvUSjdRgFq1xFUgAAAAACAAAAAAAQZgAAAAEAACAAAAB2GbRCBNKU/6FKM2RUDNOg3IIS9iAItPdJfPIKwvWQRQAAAAAOgAAAAAIAACAAAAB7wBFXX5cQeRzN1pbfsg9TZHC+QZ9SmSljIMdSAkIPeyAAAAAEFT0Uez3sulYIkMutNO8OwmQwlWX0UgF/+A9/J1orlkAAAACwShGyZ6zh7wIC7OvZjPA5xJxYv2AW+YiDNM9XsqX10D+C8v6h5vHMyhqgPkZogT8kYf/EAcM4hNb1t2jB7O+N</EncryptedPassword>
+    <History>False|2023-09-20T06:59:31.2902634Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Local">
+      <Value>server=AZER-PC%3b database=Azer_LLC.AdvertisementDb%3b integrated security=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Azer_LLC.AdvertisementApp.DataAccess.Contexts.AdvertisementContext">
+      <Value>server=AZER-PC%3b database=Azer_LLC.AdvertisementDb%3b integrated security=true%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
